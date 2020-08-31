@@ -14,3 +14,9 @@ Sequence goes :
 **4.Learning Algorithms** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/LearningAlgorithms.ipynb)]
 
 **5.GD Algorithms** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/VectorizedGDAlgos.ipynb)]
+
+**6.Activation and Initialization** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/Weight_Initialization_Activation_Functions.ipynb)]
+
+**7.PyTorch** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/PyTorch.ipynb)]
+
+**8.CNNs in PyTorch** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/PyTorchCNN.ipynb)]
