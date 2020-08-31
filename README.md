@@ -3,6 +3,8 @@ Created this repository to implement the very underlying mathematical concepts.
 
 I ihave implemented from very basic McCullouh-Pit's Neuron to Encoder-Decoder models.
 
+Viewing them in colab would be appretiated :)
+
 Sequence goes :
 
 **1.Feed Forward Networks** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/FeedForawrdNetwork.ipynb)]
@@ -20,3 +22,7 @@ Sequence goes :
 **7.PyTorch** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/PyTorch.ipynb)]
 
 **8.CNNs in PyTorch** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/PyTorchCNN.ipynb)]
+
+**9.Deeper CNNs** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/LargeCNNs.ipynb)]
+
+**10.CNN Visualizations** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/CNNVisualizations.ipynb)]
