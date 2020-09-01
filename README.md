@@ -27,4 +27,6 @@ Sequence goes :
 
 **10.CNN Visualizations** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/CNNVisualizations.ipynb)]
 
+**11.BatchNorm and Dropout** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/BatchNorm_Dropoutpynb.ipynb)]
+
 **12.HyperParamter tuning MLFlow** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/HyperParameterTuning_MLFlow.ipynb)]
