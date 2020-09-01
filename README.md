@@ -26,3 +26,5 @@ Sequence goes :
 **9.Deeper CNNs** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/LargeCNNs.ipynb)]
 
 **10.CNN Visualizations** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/CNNVisualizations.ipynb)]
+
+**12.HyperParamter tuning MLFlow** [[notebook](https://github.com/siddhantjain07/DeepLearning/blob/master/HyperParameterTuning_MLFlow.ipynb)]
